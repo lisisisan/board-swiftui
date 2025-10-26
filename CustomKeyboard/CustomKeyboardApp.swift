@@ -6,7 +6,7 @@
 //
 
 import SwiftUI
-import CoreData
+import CoreData 
 
 @main
 struct CustomKeyboardApp: App {
